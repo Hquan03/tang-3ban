@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Tui biết Hiền Anh giận với lại không thích toi nên cũng không muốn nói chuyện nữa có phải không :< ',
     messDesc: 'Tối nay mình ib nói chuyện nhaaaaa',
     btnAccept: 'Okiiiii lun ',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/hoang.quan.091203'
 }
