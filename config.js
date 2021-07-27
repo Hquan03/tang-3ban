@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Hii Hiền Anh béo Hquan đay',
+    introDesc: `Tui biết là làm phiền cơ mà thuii đừng có giận tuii ha 
+    Ở đây có mấy cái hay lắm ne thử xem ha `,
+    btnIntro: 'ấn zô đây nếu ghét Hquann!!!',
+    title: 'Test mức độ giận dữ ',
+    desc: ' Cho toi 1 cơ hội được nói chuyện cùng ik maaa. Toi mến Hiền anh lắm đó!!!! ',
+    btnYes: 'okiiii lun nhó ',
+    btnNo: 'Không, m phiền vcl ',
+    question:'tuiii xin lỗi vì mấy ngày vừa rồi đã làm phiền á, chỉ muốn quan tâm Hiền Anh chút ít thoi. Sao Hiền Anh thấy tôi phiền hả :(((',
+    btnReply: 'Gửi cho Hquan cái đấm ',
+    reply: ' Tha lỗi cho Hquan đó heheeheh, cho Hquan cơ hội nói chuyện lại đó ',
+    mess: 'Tui biết Hiền Anh giận với lại không thích toi nên cũng không muốn nói chuyện nữa có phải không :< ',
+    messDesc: 'Tối nay mình ib nói chuyện nhaaaaa',
+    btnAccept: 'Okiiiii lun ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
