@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hii Hiền Anh béo Hquan đay',
-    introDesc: `Tui biết là làm phiền cơ mà thuii đừng có giận tuii ha 
-    Ở đây có mấy cái hay lắm ne thử xem ha `,
-    btnIntro: 'ấn zô đây nếu ghét Hquann!!!',
-    title: 'Test mức độ giận dữ ',
-    desc: ' Cho toi 1 cơ hội được nói chuyện cùng ik maaa. Toi mến Hiền anh lắm đó!!!! ',
-    btnYes: 'okiiii lun nhó ',
-    btnNo: 'Không, m phiền vcl ',
-    question:'tuiii xin lỗi vì mấy ngày vừa rồi đã làm phiền á, chỉ muốn quan tâm Hiền Anh chút ít thoi. Sao Hiền Anh thấy tôi phiền hả :(((',
-    btnReply: 'Gửi cho Hquan cái đấm ',
-    reply: ' Tha lỗi cho Hquan đó heheeheh, cho Hquan cơ hội nói chuyện lại đó ',
-    mess: 'Tui biết Hiền Anh giận với lại không thích toi nên cũng không muốn nói chuyện nữa có phải không :< ',
-    messDesc: 'Tối nay mình ib nói chuyện nhaaaaa',
+    introTitle: 'Hiii bé Zyyy siu siu đáng iu "sắp" của tớ',
+    introDesc: `Tui biết bọn mình chưa quen nhao và bé Zyy cũng đáng iuu nên chắc nhiều người theo đuổi lắmm 😢
+    Nhưng xinn đó bé Zyy cho tớ 1 cơ hội để làm quen nhaaaa 😳`,
+    btnIntro: 'ấn zô đây ikk nè có điều bất ngờ cho cậu đóa!!!!',
+    title: ' Choa tớ 1 cơ hội làm quen với cậu ha ',
+    desc: ' Tớ không đẹp trai cũng không ngầu lòi như GU của cậu đâu 😓 Nhưng nếu cậu muốn có 1 chú ngừi iuu siu đáng iu làm cậu cười cả ngày thì đồng ý nhaaa xD ',
+    btnYes: 'okiiii đi nè rùi tớ choa xiem mèo của tớ  ',
+    btnNo: 'Không phiền zl đồ xấu trai',
+    question:'Cậu có muốn cùng tớ nói chuyện nhiều hơn khôm nè bọn mình có nhiều sở thích chung lắm đó <3 ',
+    btnReply: 'Gửi cho Hquannn đáng iu ',
+    reply: ' có chớ cho cậu 1 cơ hội đó hì hì ',
+    mess: ' Hehee tớ biết màaa, bọn mình nói chuyện nha tớ thích cậu lắm đó đồ đáng yêu ạ <3333 ',
+    messDesc: ' Bọn mình nói chuyện nha tớ thích cậu lắm đó đồ đáng yêu ạ <3333 ',
     btnAccept: 'Okiiiii lun ',
     messLink: 'https://www.facebook.com/hoang.quan.091203'
 }
