@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Hiii bé Zyyy siu siu đáng iu "sắp" của tớ',
-    introDesc: `Tui biết bọn mình chưa quen nhao và bé Zyy cũng đáng iuu nên chắc nhiều người theo đuổi lắmm 😢
-    Nhưng xinn đó bé Zyy cho tớ 1 cơ hội để làm quen nhaaaa 😳`,
-    btnIntro: 'ấn zô đây ikk nè có điều bất ngờ cho cậu đóa!!!!',
-    title: ' Choa tớ 1 cơ hội làm quen với cậu ha ',
-    desc: ' Tớ không đẹp trai cũng không ngầu lòi như GU của cậu đâu 😓 Nhưng nếu cậu muốn có 1 chú ngừi iuu siu đáng iu làm cậu cười cả ngày thì đồng ý nhaaa xD ',
-    btnYes: 'okiiii đi nè rùi tớ choa xiem mèo của tớ  ',
-    btnNo: 'Không phiền zl đồ xấu trai',
-    question:'Cậu có muốn cùng tớ nói chuyện nhiều hơn khôm nè bọn mình có nhiều sở thích chung lắm đó <3 ',
-    btnReply: 'Gửi cho Hquannn đáng iu ',
-    reply: ' có chớ cho cậu 1 cơ hội đó hì hì ',
-    mess: ' Hehee tớ biết màaa, bọn mình nói chuyện nha tớ thích cậu lắm đó đồ đáng yêu ạ <3333 ',
-    messDesc: ' Bọn mình nói chuyện nha tớ thích cậu lắm đó đồ đáng yêu ạ <3333 ',
+    introTitle:Xin chèo! ,
+    introDesc: `Gửi 3 tình iu của Ngô, Hải và Quân
+    Ấn vô dưới để cóa nhiều điều bất ngờ nhé `,
+    btnIntro: 'đây nè 3 má',
+    title: ' Xin lũi vì chúng tôi đã phạm phải những sai lầm tồi tệ với các bạn =((( ',
+    desc: ' hãy tha lỗi cho bọn tôi những người đàn ông lầm lỡ :( Ấn có để đồng ý và nhận 1 kèo lẩu nướng  ',
+    btnYes: ' Okii đoòng ý tha lỗi <3  ',
+    btnNo: ' không cút đi 3 th tệ bạc ',
+    question:' 3 bạn nữ đáng iu có muốn chúng tôi làm gì tặng các bạn khôm ',
+    btnReply: ' Gửi 3 người đàn ông đẹp trai nhất ',
+    reply: ' không các cậu là tuyệtt vời nhất heheh ',
+    mess: ' Chúng tôi biết mà hehe! tối nay bọn mình call bonding nha ',
+    messDesc: ' tối nay bọn mình call bonding nha ',
     btnAccept: 'Okiiiii lun ',
-    messLink: 'https://www.facebook.com/hoang.quan.091203'
+    messLink: 'https://www.facebook.com/messages/t/4006798229445982'
 }
